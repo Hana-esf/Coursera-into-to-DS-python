@@ -3,4 +3,14 @@
 I am taking this course from Coursera and I will share my documents and projects and practices of this course here.
 - Numpy
 - Pandas
+    *math.isnaa()
+    *pd.Series()
+    *.iloc[]
+    *.loc[]
+    *df.rename
+    *df.where
+    *.dropna()
+    *df.drop()
+    *.iteritems()
+    *df.T[]
 - Dataframe
