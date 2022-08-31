@@ -3,6 +3,7 @@
 I am taking this course from Coursera and I will share my documents and projects and practices of this course here.
 - Numpy
 - Pandas
+- Dataframe
     - math.isnaa()
     - pd.Series()
     - .iloc[]
@@ -13,4 +14,3 @@ I am taking this course from Coursera and I will share my documents and projects
     - df.drop()
     - .iteritems()
     - df.T[]
-- Dataframe
